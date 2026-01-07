@@ -1,16 +1,27 @@
-## Hi there 👋
+# Olá, eu sou a Ionara! 👋
 
-<!--
-**IonaraParreira/IonaraParreira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-000080?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Back--End-000000?style=for-the-badge&logoColor=white" />
+</p>
 
-Here are some ideas to get you started:
+> **Aprofundando meus conhecimentos em Python e no mundo Back-End**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 📊 Minhas Estatísticas no GitHub
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=IonaraParreira&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IonaraParreira&layout=compact&theme=dark" />
+</p>
+
+---
+
+### 💻 Tecnologias e Ferramentas
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,django,git,github,postman,vscode" />
+</p>
+
+---
+
+<h2 align="center">Obrigada pela visita Fique a vontade para explorar os meus repositórios😉. E se te ajudar de alguma forma, deixe uma ⭐ em troca</h2>
