@@ -11,8 +11,8 @@
 
 ### 📊 Minhas Estatísticas no GitHub
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=IonaraParreira&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IonaraParreira&layout=compact&theme=dark" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=IonaraParreira&show_icons=true&theme=dark&include_all_commits=true&count_private=true&v=1" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IonaraParreira&layout=compact&theme=dark&v=1" />
 </p>
 
 
