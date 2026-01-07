@@ -1,11 +1,17 @@
-# Olá, eu sou a Ionara! 👋
+# ⚡ Olá, eu sou a Ionara! 👋
+
+### 🛠️ Programadora Back-end em Evolução
+Focada em construir soluções robustas e escaláveis, atualmente aprofundando meus conhecimentos no ecossistema **Python**. Acredito que a programação é a arte de resolver problemas complexos com persistência e código limpo.
+
+* 🐍 **Atualmente:** Mergulhando em Python e lógica de programação.
+* 🎯 **Objetivo:** Me tornar uma referência em arquitetura de sistemas e automação.
+* 💡 **Mindset:** "Cada desafio é uma oportunidade para aprender."
 
 <p align="left">
   <img src="https://img.shields.io/badge/Python-000080?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Back--End-000000?style=for-the-badge&logoColor=white" />
 </p>
 
-> **Aprofundando meus conhecimentos em Python e no mundo Back-End**
 
 ---
 
