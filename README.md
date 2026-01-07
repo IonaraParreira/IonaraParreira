@@ -24,4 +24,4 @@
 
 ---
 
-<h2 align="center">Obrigada pela visita Fique a vontade para explorar os meus repositórios😉. E se te ajudar de alguma forma, deixe uma ⭐ em troca</h2>
+<h4 align="center">Obrigada pela visita.Fique a vontade para explorar os meus repositórios😉. E se te ajudar de alguma forma, deixe uma ⭐ em troca</h4>
