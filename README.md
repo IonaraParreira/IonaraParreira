@@ -11,8 +11,8 @@
 
 ### 📊 Minhas Estatísticas no GitHub
 <p align="center">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=IonaraParreira&theme=dark" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IonaraParreira&layout=compact&theme=dark&v=2" />
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=IonaraParreira&show_icons=true&theme=dark" />
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=IonaraParreira&layout=compact&theme=dark" />
 </p>
 
 
