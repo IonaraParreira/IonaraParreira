@@ -1,7 +1,7 @@
 # ⚡ Olá, eu sou a Ionara! 👋
 
 ### <img src="https://cdn.simpleicons.org/python/8A2BE2" width="40" height="40" /> Da Lógica ao Hacking: Minha Jornada Tech
-Atualmente focada em dominar o **Back-end com Python**, construindo a base sólida necessária para evoluir para **Fullstack** e, futuramente, atingir meu objetivo final: atuar na área de **Cyber Security/Hacking**. 
+Atualmente focada em dominar o **Back-end com Python**, construindo a base sólida e, futuramente, atingir meu objetivo final: atuar na área de **Cyber Security/Hacking**. 
 
 * 🚀 **Fase Atual:** Especialização em Python e arquitetura de sistemas.
 * 🌐 **Próximo Passo:** Desenvolvimento Back-end para entender a comunicação entre cliente e servidor.
