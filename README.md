@@ -27,8 +27,6 @@ Atualmente focada em dominar o **Back-end com Python**, construindo a base sóli
   <img src="https://raw.githubusercontent.com/IonaraParreira/IonaraParreira/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </p>
 
----
-
 ### 💻 Tecnologias (Linguagens e Frameworks)
 <p align="left">
   <img src="https://skillicons.dev/icons?i=py,django,js,html,css&theme=dark" />
