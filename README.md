@@ -17,6 +17,9 @@ Atualmente focada em dominar o **Back-end com Python**, construindo a base sóli
 
 ---
 
+###
+![github contribution grid snake](https://raw.githubusercontent.com/IonaraParreira/IonaraParreira/output/github-contribution-grid-snake-dark.svg)
+
 ### 📊 Performance & Stats
 <p align="center">
   <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=IonaraParreira&show_icons=true&bg_color=000000&title_color=239120&icon_color=239120&text_color=239120&border_color=000000" />
