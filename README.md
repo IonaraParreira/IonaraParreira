@@ -22,10 +22,7 @@ Atualmente focada em dominar o **Back-end com Python**, construindo a base sóli
   <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=IonaraParreira&show_icons=true&bg_color=000000&title_color=239120&icon_color=239120&text_color=239120&border_color=000000" />
   <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=IonaraParreira&layout=compact&bg_color=000000&title_color=239120&text_color=239120&border_color=000000&custom_colors=Python:8A2BE2,CSS:239120,HTML:f1e05a" />
 </p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/IonaraParreira/IonaraParreira/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</p>
+---
 
 ### 💻 Tecnologias (Linguagens e Frameworks)
 <p align="left">
