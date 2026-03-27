@@ -26,17 +26,27 @@ Atualmente focada em dominar o **Back-end com Python**, construindo a base sóli
 </p>
 
 ---
-
-### 💻 Tecnologias (Linguagens e Frameworks)
+### 💻 Linguagens e Frameworks (Base)
 <p align="left">
   <img src="https://skillicons.dev/icons?i=py,django,js,html,css&theme=dark" />
 </p>
 
-### 🛠️ Ferramentas e Ambiente
+### 🗄️ Banco de Dados e APIs (Dados)
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=vscode,git,github,postman" />
+  <img src="https://skillicons.dev/icons?i=mongodb,postman&theme=dark" />
 </p>
 
+### 🚀 Deploy e Monitoramento (Operações)
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="50" height="50"/>
+  <img src="https://cdn.simpleicons.org/render/46E3B7" width="40" height="40" alt="render" />
+  </p>
+ 
+### 🛠️ Ferramentas e Ambiente
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=vscode,git,github&theme=dark" />
+  <img src="https://cdn.simpleicons.org/notepadplusplus/90E59A" width="50" height="50" />
+</p>
 ---
 
 <h4 align="center">Obrigada pela visita.Fique a vontade para explorar os meus repositórios😉. E se te ajudar de alguma forma, deixe uma ⭐ em troca</h4>
