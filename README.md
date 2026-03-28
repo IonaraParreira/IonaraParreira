@@ -28,7 +28,7 @@ Atualmente focada em dominar o **Back-end com Python**, construindo a base sóli
 ---
 ### 💻 Linguagens e Frameworks (Base)
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=py,django,js,html,css&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=py,django,flask,js,html,css&theme=dark" />
 </p>
 
 ### 🗄️ Banco de Dados e APIs (Dados)
