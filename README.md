@@ -17,9 +17,9 @@ Atualmente focada em dominar o **Back-end com Python**, construindo a base sóli
 
 ---
 
-### 📊 Performance & Stats
+### 📊 Performance & Stats Totais
 <p align="center">
-  <img height="190em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=IonaraParreira&show_icons=true&bg_color=000000&title_color=239120&icon_color=239120&text_color=239120&border_color=000000&count_private=true" />
+  <img height="190em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=IonaraParreira&show_icons=true&bg_color=000000&title_color=239120&icon_color=239120&text_color=239120&border_color=000000&count_private=true&include_all_commits=true" />
 </p>
 <p align="center">
   <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=IonaraParreira&layout=compact&bg_color=000000&title_color=239120&text_color=239120&border_color=000000&custom_colors=Python:8A2BE2,CSS:239120,HTML:f1e05a" />
