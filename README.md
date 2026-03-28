@@ -47,6 +47,7 @@ Atualmente focada em dominar o **Back-end com Python**, construindo a base sóli
   <img src="https://skillicons.dev/icons?i=vscode,git,github&theme=dark" />
   <img src="https://cdn.simpleicons.org/notepadplusplus/90E59A" width="50" height="50" />
 </p>
+
 ---
 
 <h4 align="center">Obrigada pela visita.Fique a vontade para explorar os meus repositórios😉. E se te ajudar de alguma forma, deixe uma ⭐ em troca</h4>
