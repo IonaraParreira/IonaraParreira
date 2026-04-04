@@ -29,11 +29,13 @@ Atualmente focada em dominar o **Back-end com Python**, construindo a base sóli
 ### 💻 Linguagens e Frameworks (Base)
 <p align="left">
   <img src="https://skillicons.dev/icons?i=py,django,flask,js,html,css&theme=dark" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="node.js" width="40" height="40" style="vertical-align: middle; margin-left: -5px;" />
 </p>
 
 ### 🗄️ Banco de Dados e APIs (Dados)
 <p align="left">
   <img src="https://skillicons.dev/icons?i=mongodb,postman&theme=dark" />
+  <img src="https://cdn.simpleicons.org/firebase/FFCA28" width="48" height="48" alt="firebase" />
 </p>
 
 ### 🚀 Deploy e Monitoramento (Operações)
