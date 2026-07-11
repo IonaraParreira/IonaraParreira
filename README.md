@@ -5,7 +5,7 @@ Atualmente focada em dominar o **Back-end com Python**, construindo a base sóli
 
 * 🚀 **Fase Atual:** Especialização em Python e arquitetura de sistemas.
 * 🌐 **Próximo Passo:** Desenvolvimento Back-end para entender a comunicação entre cliente e servidor.
-* 🛡️ **Visão de Futuro:** Especialista em segurança e testes de intrusão.
+* 🛡️ **Visão de Futuro:** Analista de Defesa Cibernética
 * 💡 **Mindset:** "Dominando o Back-end para construir um futuro mais seguro"
 
 ---
