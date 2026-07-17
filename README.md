@@ -1,6 +1,6 @@
 # ⚡ Olá, eu sou a Ionara!
 
-### <img src="https://cdn.simpleicons.org/python/8A2BE2" width="40" height="40" /> Da Lógica à Defesa: Minha Jornada Tech
+Minha Jornada Tech: Da Lógica à Defesa
 Atualmente focada em dominar o **Back-end com Python**, construindo a base sólida e, futuramente, atingir meu objetivo final: atuar na área de **Cyber Security/Hacking**. 
 
 * 🚀 **Fase Atual:** Especialização em Python e arquitetura de sistemas.
