@@ -1,12 +1,16 @@
 # ⚡ Olá, eu sou a Ionara!
 
-<h2>📌Minha Jornada Tech: Da Lógica à Defesa</h2>
-Atualmente focada em dominar o **Back-end com Python**, construindo a base sólida e, futuramente, atingir meu objetivo final: atuar na área de **Cyber Security/Hacking**. 
+<h3>📌Minha Jornada Tech: Da Lógica à Defesa</h3>
 
-* 🚀 **Fase Atual:** Especialização em Python e arquitetura de sistemas.
-* 🌐 **Próximo Passo:** Desenvolvimento Back-end para entender a comunicação entre cliente e servidor.
-* 🛡️ **Visão de Futuro:** Analista de Defesa Cibernética
-* 💡 **Mindset:** "Dominando o Back-end para construir um futuro mais seguro"
+Atualmente focada em dominar o Back-end com Python, construindo uma base sólida para atuar estrategicamente na área de Cyber Security / Segurança Defensiva (Blue Team).
+
+🚀 Fase Atual: Especialização em Python, lógica de programação e arquitetura de sistemas.
+
+🌐 Foco Técnico: Desenvolvimento Back-end focado em entender a comunicação profunda entre cliente e servidor.
+
+🛡️ Visão de Futuro: Analista de Defesa Cibernética / AppSec.
+
+💡 Mindset: "Dominando o Back-end para construir um futuro mais seguro."
 
 ---
 
