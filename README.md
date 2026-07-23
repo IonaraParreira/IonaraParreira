@@ -1,22 +1,29 @@
 # ⚡ Olá, eu sou a Ionara!
 
-<h3>📌Minha Jornada Tech: Da Lógica à Defesa</h3>
+### 🛡️ Cyber Defense | Blue Team | Analista SOC N1 | Back-end Developer | Python
 
-Atualmente focada em dominar o Back-end com Python, construindo uma base sólida para atuar estrategicamente na área de Cyber Security / Segurança Defensiva (Blue Team).
-
-🚀 Fase Atual: Especialização em Python, lógica de programação e arquitetura de sistemas.
-
-🌐 Foco Técnico: Desenvolvimento Back-end focado em entender a comunicação profunda entre cliente e servidor.
-
-🛡️ Visão de Futuro: Analista de Defesa Cibernética / AppSec.
-
-💡 Mindset: "Dominando o Back-end para construir um futuro mais seguro."
+Estudante na área de **Segurança Defensiva (Blue Team)**, com foco principal em **Monitoramento de Segurança, Triagem de Alertas e Mitigação de Incidentes em nível N1 (SOC)**.
 
 ---
 
-<p align="left">
+### 📌 Atuação & Competências Técnicas
 
+* 🔍 **Monitoramento & Análise de Alertas:** Acompanhamento de eventos de segurança, identificação de anomalias e análise inicial de incidentes.
+* 🛡️ **Mitigação & Resposta a Incidentes (SOC N1):** Atuação na contenção primária de ameaças, aplicação de procedimentos operacionais padrão (SOP) e documentação de chamados.
+* 🌐 **Análise de Tráfego & Redes:** Compreensão prática dos protocolos fundamentais (TCP/IP, HTTP/HTTPS, DNS) para investigação de atividades suspeitas na rede.
+* 💻 **Sistemas Operacionais & CLI:** Utilização de ambientes Linux (Bash) e Windows (PowerShell) para navegação, coleta de evidências e análise de logs.
+
+* 🛡️ **Visão de Futuro:** Evoluir de Analista SOC N1 para Especialista em Resposta a Incidentes (DFIR) e Threat Hunting.
+* 💡 **Mindset:** *"Monitorar com atenção, investigar com precisão e defender com agilidade."*
+---
+<p align="left">
+  
+![Cyber Security](https://img.shields.io/badge/Cyber_Security-000000?style=for-the-badge&logo=shield&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-purple?style=for-the-badge&logo=python&logoColor=white)<img src="https://img.shields.io/badge/Back--End-000000?style=for-the-badge&logoColor=white" />
+
 </p>
 
 ---
