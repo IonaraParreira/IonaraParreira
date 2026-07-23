@@ -9,7 +9,7 @@
 ### 📌 Atuação & Competências Técnicas
 
 * 🔍 **Monitoramento & Análise de Alertas:** Acompanhamento de eventos de segurança, identificação de anomalias e análise inicial de incidentes.
-* 🛡️ **Mitigação & Resposta a Incidentes (SOC N1):** Atuação na contenção primária de ameaças, aplicação de procedimentos operacionais padrão (SOP) e documentação de chamados.
+* 🛡️ **Tratamento & Resposta a Incidentes (SOC N1):** Atuação na contenção primária de ameaças, aplicação de procedimentos operacionais padrão (SOP) e documentação de chamados.
 * 🌐 **Análise de Tráfego & Redes:** Compreensão prática dos protocolos fundamentais (TCP/IP, HTTP/HTTPS, DNS) para investigação de atividades suspeitas na rede.
 * 💻 **Sistemas Operacionais & CLI:** Utilização de ambientes Linux (Bash) e Windows (PowerShell) para navegação, coleta de evidências e análise de logs.
 
