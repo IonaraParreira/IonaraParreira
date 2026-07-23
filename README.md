@@ -1,6 +1,6 @@
 # ⚡ Olá, eu sou a Ionara!
 
-### 🛡️ Cyber Defense | Blue Team | Analista SOC N1 | Back-end Developer | Python
+### 🛡️ Analista de Segurança da Informação N1 | Blue Team & SOC | Python & Automação de Defesa | ADS
 
 **Estudante na área de Segurança Defensiva (Blue Team)**, com foco principal em **Monitoramento de Segurança, Triagem de Alertas e Mitigação de Incidentes em nível N1 (SOC)**.
 
