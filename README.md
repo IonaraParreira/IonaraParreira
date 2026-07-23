@@ -2,7 +2,7 @@
 
 ### 🛡️ Cyber Defense | Blue Team | Analista SOC N1 | Back-end Developer | Python
 
-Estudante na área de **Segurança Defensiva (Blue Team)**, com foco principal em **Monitoramento de Segurança, Triagem de Alertas e Mitigação de Incidentes em nível N1 (SOC)**.
+**Estudante na área de Segurança Defensiva (Blue Team)**, com foco principal em **Monitoramento de Segurança, Triagem de Alertas e Mitigação de Incidentes em nível N1 (SOC)**.
 
 ---
 
