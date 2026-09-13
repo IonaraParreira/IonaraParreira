@@ -63,7 +63,10 @@
 
 ---
 
-<h4 align="center">Obrigada pela visita.Fique a vontade para explorar os meus repositórios😉. E se te ajudar de alguma forma, deixe uma ⭐ em troca</h4>
+<p align="center">
+  <b>Obrigada pela visita. Fique à vontade para explorar os meus repositórios 🤗. E se te ajudar<br>
+  de alguma forma, deixe uma ⭐ em troca</b>
+</p>
 
 ###
 ![github contribution grid snake](https://raw.githubusercontent.com/IonaraParreira/IonaraParreira/output/github-contribution-grid-snake-dark.svg)
