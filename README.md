@@ -13,7 +13,7 @@
 * 🌐 **Análise de Tráfego & Redes:** Compreensão prática dos protocolos fundamentais (TCP/IP, HTTP/HTTPS, DNS) para investigação de atividades suspeitas na rede.
 * 💻 **Sistemas Operacionais & CLI:** Utilização de ambientes Linux (Bash) e Windows (PowerShell) para navegação, coleta de evidências e análise de logs.
 
-* 🛡️ **Visão de Futuro:** Evoluir de Analista SOC N1 para Especialista em Resposta a Incidentes (DFIR) e Threat Hunting.
+* 🛡️ **Visão de Futuro:** Evoluir de Analista SOC N1 para Analista SOC N2
 * 💡 **Mindset:** *"Monitorar com atenção, investigar com precisão e defender com agilidade."*
 ---
 <p align="left">
