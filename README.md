@@ -40,7 +40,7 @@
 ### 💻 Linguagens e Frameworks (Base)
 <p align="left">
   <img src="https://skillicons.dev/icons?i=py,django,flask,js,html,css&theme=dark" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="node.js" width="40" height="40" style="vertical-align: middle; margin-left: -5px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="node.js" width="50" height="50" style="vertical-align: middle; margin-left: -5px;" />
 </p>
 
 ### 🗄️ Banco de Dados e APIs (Dados)
@@ -52,7 +52,8 @@
 ### 🚀 Deploy e Monitoramento (Operações)
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="50" height="50"/>
-  <img src="https://cdn.simpleicons.org/render/46E3B7" width="40" height="40" alt="render" />
+  <img src="https://cdn.simpleicons.org/render/46E3B7" width="50" height="50" alt="render" />
+  <img width="60" height="60" alt="image" src="https://github.com/user-attachments/assets/f63e78ec-0e7c-4cbc-8aad-7c9686e1dee5" />
   </p>
  
 ### 🛠️ Ferramentas e Ambiente
