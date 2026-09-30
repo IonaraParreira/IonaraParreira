@@ -53,7 +53,7 @@
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="50" height="50"/>
   <img src="https://cdn.simpleicons.org/render/46E3B7" width="50" height="50" alt="render" />
-  <img width="60" height="60" alt="image" src="https://github.com/user-attachments/assets/f63e78ec-0e7c-4cbc-8aad-7c9686e1dee5" />
+  <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/f63e78ec-0e7c-4cbc-8aad-7c9686e1dee5" />
   </p>
  
 ### 🛠️ Ferramentas e Ambiente
