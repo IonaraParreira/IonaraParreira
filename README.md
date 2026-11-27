@@ -64,8 +64,8 @@
 ---
 
 <p align="center">
-  <b>Obrigada pela visita. Fique à vontade para explorar os meus repositórios 🤗. E se te ajudar<br>
-  de alguma forma, deixe uma ⭐ em troca</b>
+  <b>Obrigada pela visita! 🤗 Fique à vontade para continuar explorando os repositóros.<br>
+  Deixe uma ⭐ ou abra uma issue para trocarmos ideias!</b>
 </p>
 
 ###
